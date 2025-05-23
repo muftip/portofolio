@@ -105,7 +105,7 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project 1",
-            source: "https://https://github.com/muftip/portofolio", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/muftip/portofolio", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
